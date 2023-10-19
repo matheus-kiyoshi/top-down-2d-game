@@ -1,9 +1,10 @@
-[gd_scene load_steps=5 format=3 uid="uid://bsdte1kqxw7ma"]
+[gd_scene load_steps=6 format=3 uid="uid://bsdte1kqxw7ma"]
 
 [ext_resource type="Texture2D" uid="uid://pu0gj4qroo5k" path="res://controls/sprites/button-left.png" id="1_cbuy6"]
 [ext_resource type="Texture2D" uid="uid://fa7lu6nyeeru" path="res://controls/sprites/button-right.png" id="2_1i5rj"]
 [ext_resource type="Texture2D" uid="uid://s4ailfoo84oc" path="res://controls/sprites/button-up.png" id="3_capm4"]
 [ext_resource type="Texture2D" uid="uid://dmabbdufmslhl" path="res://controls/sprites/button-down.png" id="4_wq5ma"]
+[ext_resource type="Texture2D" uid="uid://cvy0d87ufwg2g" path="res://icon.svg" id="5_vicx1"]
 
 [node name="Controls" type="CanvasLayer"]
 
@@ -30,3 +31,9 @@ position = Vector2(39, 134)
 texture_normal = ExtResource("4_wq5ma")
 passby_press = true
 action = "move_down"
+
+[node name="attack" type="TouchScreenButton" parent="."]
+position = Vector2(230, 104)
+scale = Vector2(0.414062, 0.414062)
+texture_normal = ExtResource("5_vicx1")
+action = "attack_button"
