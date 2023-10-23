@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://s4ailfoo84oc"
-path="res://.godot/imported/button-up.png-8f2d956654e655b435339e74d61e8eb8.ctex"
+uid="uid://d4cfit2x1cl88"
+path="res://.godot/imported/decor_16x16.png-8faea2705c887421a5bbfdefcc625a37.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://controls/sprites/button-up.png"
-dest_files=["res://.godot/imported/button-up.png-8f2d956654e655b435339e74d61e8eb8.ctex"]
+source_file="res://terrain/assets/base_terrain/decor_16x16.png"
+dest_files=["res://.godot/imported/decor_16x16.png-8faea2705c887421a5bbfdefcc625a37.ctex"]
 
 [params]
 

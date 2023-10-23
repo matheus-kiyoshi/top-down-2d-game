@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://pu0gj4qroo5k"
-path="res://.godot/imported/button-left.png-9d3b7f3d8b94c05096e5207bbbf6b1fb.ctex"
+uid="uid://d351jvjlhx3sf"
+path="res://.godot/imported/plains.png-6e3d48208e43eb6a0062ddcb8547837c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://controls/sprites/button-left.png"
-dest_files=["res://.godot/imported/button-left.png-9d3b7f3d8b94c05096e5207bbbf6b1fb.ctex"]
+source_file="res://terrain/assets/base_terrain/plains.png"
+dest_files=["res://.godot/imported/plains.png-6e3d48208e43eb6a0062ddcb8547837c.ctex"]
 
 [params]
 
